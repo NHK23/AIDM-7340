@@ -12,7 +12,7 @@ This project consists of 5 components: **lib folder**, **SourceHanSerif-VF.ttf**
 
 ## Table of Contents
 
-- [lib📈](/lib)
+- [lib📈](/lib):This directory contains all the necessary libraries and dependencies for the project.
 - [SourceHanSerif-VF.ttf🚀](/SourceHanSerif-VF.ttf)
 - [Visualization.ipynb🎨](/Visualization.ipynb)
 - [杂志打标.xlsx📄](/杂志打标.xlsx)
