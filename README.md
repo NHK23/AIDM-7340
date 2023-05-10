@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81c1d0a8a77f59dd3bd320fe549c0bd36d965b0ba6263da849f20b070a6365ad
-size 11
+# Project Name 📊
+
+This is a network analysis-based project primarily focused on visualizing the relationships among article authors, interviewees, and character attributes.
+
+## Table of Contents
+
+- [Directory Structure](#directory-structure)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Directory Structure 📂
+
+Here's an overview of the files in this project:
+
+```plaintext
+.
+├── lib/
+├── SourceHanSerif-VF.ttf
+├── Visualization.ipynb
+├── network.html
+└── Magazine_Marking.xlsx
