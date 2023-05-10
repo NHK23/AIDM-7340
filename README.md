@@ -14,6 +14,6 @@ This project consists of 5 components: **lib folder**, **SourceHanSerif-VF.ttf**
 
 - [lib📈](#lib)
 - [SourceHanSerif-VF.ttf🚀](SourceHanSerif-VF.ttf)
-- [Visualization.ipynb🎨](Visualization.ipynb)
-- [杂志打标.xlsx📄](杂志打标.xlsx)
+- [Visualization.ipynb🎨](/Visualization.ipynb)
+- [杂志打标.xlsx📄](/杂志打标.xlsx)
 - [network.html🌐💡](network.html)
