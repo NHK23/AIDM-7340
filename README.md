@@ -12,8 +12,8 @@ This project consists of 5 components: **lib folder**, **SourceHanSerif-VF.ttf**
 
 ## Table of Contents
 
-- [lib📈](/lib):This directory contains all the necessary libraries and dependencies for the project.
-- [SourceHanSerif-VF.ttf🚀](/SourceHanSerif-VF.ttf)
-- [Visualization.ipynb🎨](/Visualization.ipynb)
-- [杂志打标.xlsx📄](/杂志打标.xlsx)
-- [network.html🌐💡](/network.html)
+- [lib📈](/lib): This directory contains all the necessary libraries and dependencies for the project.
+- [SourceHanSerif-VF.ttf🚀](/SourceHanSerif-VF.ttf): This repository contains a crucial font file: `SourceHanSerif-VF.ttf`. This font file is specifically designed to prevent Chinese character encoding issues in our scripts. 
+- [Visualization.ipynb🎨](/Visualization.ipynb): 
+- [杂志打标.xlsx📄](/杂志打标.xlsx): 
+- [network.html🌐💡](/network.html): 
