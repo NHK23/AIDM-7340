@@ -1,6 +1,6 @@
-# AIDM-7410-Project
+# AIDM-7340-Project
 
-# This is HKBU AIDM 7410 project 📊
+# This is HKBU AIDM 7340 project 📊
 
 This project consists of 5 components: **lib folder**, **SourceHanSerif-VF.ttf**, **Visualization.ipynb**, **杂志打标.xlsx**, and **network.html**. Below, you'll find a brief description and links to each section.
 
